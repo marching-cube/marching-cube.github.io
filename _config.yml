@@ -1,0 +1,8 @@
+title: Personal blog of @marching-cube
+description: Notes on machine learning systems, pipelines, and production lessons
+theme: minima
+
+markdown: kramdown
+highlighter: rouge
+
+permalink: /:year/:month/:day/:title/
