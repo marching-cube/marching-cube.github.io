@@ -1,6 +1,11 @@
 ---
 layout: post
 title: "From Training to Inference: Shared Preprocessing in a Production ML Pipeline"
+tags:
+  - onnx
+  - machine-learning
+  - sklearn
+  - skl2onnx
 ---
 
 _This article was published as a part of CARTA ZERO's Advent Calendar 2025 event. [Link](https://techblog.cartaholdings.co.jp/entry/custom-preprocessing-design-for-onnxruntime)_

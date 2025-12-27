@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Migration to ONNX runtime"
+tags:
+  - onnx
+  - machine-learning
 ---
 
 _This article was published as a part of CARTA ZERO's Advent Calendar 2024 event. [Link](https://techblog.cartaholdings.co.jp/entry/onxx-small-model-improve-performance)_
